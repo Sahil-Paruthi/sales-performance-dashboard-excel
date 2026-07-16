@@ -38,7 +38,7 @@ The objective of this dashboard is to help business stakeholders answer question
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](dashboard-overview.png.png)
+![Dashboard Overview](images/dashboard-overview.png)
 
 ---
 
