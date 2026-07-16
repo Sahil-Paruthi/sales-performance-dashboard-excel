@@ -38,7 +38,7 @@ The objective of this dashboard is to help business stakeholders answer question
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png.png)
 
 ---
 
@@ -182,13 +182,6 @@ This dashboard was created using a sample sales dataset for portfolio and learni
 
 ## 👤 Author
 
-**Bhavika Bhatia**
+**Sahil Paruthi**
 
-Aspiring Business Analyst | Commercial Planning | Fashion Buying | Data Analytics
-
-### Connect with me
-
-- LinkedIn: *(Add your LinkedIn URL here)*
-- GitHub: *(Add your GitHub profile URL here)*
-
----
+Aspiring Business Analyst | Data Analytics
